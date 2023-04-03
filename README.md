@@ -1,4 +1,4 @@
-# Turn-To-Binary
+# TurnToBinary
 A binary-text converter that lets you convert your text files into binary format and vice versa.
 
 # Description
