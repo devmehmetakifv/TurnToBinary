@@ -9,8 +9,8 @@ When you need to access the information hidden in binary file, you can convert t
 
 # Screenshots:
 
-![Main screen of Turn To Binary](https://raw.githubusercontent.com/devmehmetakifv/Turn-To-Binary/main/mainScreen.PNG)
+![Main screen of Turn To Binary](https://raw.githubusercontent.com/devmehmetakifv/TurnToBinary/master/mainScreen.PNG)
 
-![TextToBinary screen of Turn To Binary](https://raw.githubusercontent.com/devmehmetakifv/Turn-To-Binary/main/ttb.PNG)
+![TextToBinary screen of Turn To Binary](https://raw.githubusercontent.com/devmehmetakifv/TurnToBinary/master/ttb.PNG)
 
 ![BinaryToText screen of Turn To Binary](https://raw.githubusercontent.com/devmehmetakifv/TurnToBinary/master/btt.PNG)
